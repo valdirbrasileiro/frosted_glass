@@ -1,4 +1,4 @@
-# frosted_glass
+# Frosted Glass
 
 A new Flutter project.
 
