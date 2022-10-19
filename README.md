@@ -16,7 +16,10 @@ flutter pub get
 flutter run
 ```
 
+## Screenshots
 
+### Frosted Glass Component
+<img src="assets/screenshots/Captura de Tela 2022-10-17 às 21.55.31.png" width="500px" />
 
 A few resources to get you started if this is your first Flutter project:
 ----------------------------------------------------------------
